@@ -1,0 +1,1 @@
+# logstash-filter-stt1
